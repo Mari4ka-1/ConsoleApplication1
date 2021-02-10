@@ -14,6 +14,7 @@ int main()
     std::cout << "end world2 \n";
 >>>>>>> master
     std::cout << "Hello Ksyuxa!\n";
+    std::cout << "commit in branch\n";
 }
  
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
