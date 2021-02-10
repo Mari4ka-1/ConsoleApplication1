@@ -13,6 +13,7 @@ int main()
     std::cout << "bye world \n";
     std::cout << "end world2 \n";
 >>>>>>> master
+    std::cout << "Hello Ksyuxa!\n";
 }
  
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
