@@ -6,8 +6,13 @@
 int main()
 {
     std::cout << "Hello World!\n";
+<<<<<<< HEAD
     std::cout << "bye world  \n";
     std::cout << "end world \n";
+=======
+    std::cout << "bye world \n";
+    std::cout << "end world2 \n";
+>>>>>>> master
 }
  
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
